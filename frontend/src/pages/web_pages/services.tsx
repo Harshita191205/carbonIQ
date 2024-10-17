@@ -195,7 +195,7 @@ export default function WebSite() {
 
         <PricingSection
           projectName={'develop a aap for carbonIQ'}
-          withBg={1}
+          withBg={0}
           features={pricing_features}
           description={description}
         />
