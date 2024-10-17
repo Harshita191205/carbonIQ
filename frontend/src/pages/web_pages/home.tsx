@@ -148,7 +148,7 @@ export default function WebSite() {
         <FeaturesSection
           projectName={'develop a aap for carbonIQ'}
           image={['Dashboard showing CRM features']}
-          withBg={1}
+          withBg={0}
           features={features_points}
           mainText={`Discover Key Features of ${projectName}`}
           subTitle={`Enhance your law firm's efficiency with ${projectName}. Explore features designed to streamline operations and improve client management.`}
